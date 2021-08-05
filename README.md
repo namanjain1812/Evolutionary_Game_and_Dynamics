@@ -1,4 +1,4 @@
-# Evolutionary_Game_and_Dynamics
+# Evolutionary Game and Dynamics
 
 Part of my research project done under Prof. Sagar Chakraborty on the topic "Chaos and rationality in evolutionary games"
 
